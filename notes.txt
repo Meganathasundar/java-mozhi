@@ -1,0 +1,11 @@
+ARCH SYSTEMS 
+
+contributing to gitlab dev kit
+https://gitlab.com/gitlab-org/gitlab-development-kit/tree/master
+
+setting up GDK in windows 
+https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/prepare.md#experimental-windows-10-using-the-wsl-windows-subsystem-for-linux
+
+
+have to continue from here:
+https://gitlab.com/gitlab-org/gitlab-development-kit/blob/master/doc/set-up-gdk.md
